@@ -1,1 +1,2 @@
-file was changed.
+1. - file was changed.
+2. - file was changed in newfeature branch.
